@@ -46,7 +46,7 @@ The easiest way to get get started with Release is to <a href="mailto:hello@rele
 
  
   <a href="https://github.com/awesome-release">
-      <img src="https://img.shields.io/static/v1?label=Y Combinator&message=W20&color=important&style=flat-square&logo=y combinator" alt="Examples that work in Release" />
+      <img src="https://img.shields.io/static/v1?label=Y%20Combinator&message=W20&color=important&style=flat-square&logo=y%20combinator" alt="Y Combinator W20" />
     </a>
 
 &nbsp;
