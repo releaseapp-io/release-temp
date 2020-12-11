@@ -45,7 +45,7 @@ Release unlocks the ability to create fully autonomous environments from any git
 The easiest way to get get started with Release is to <a href="mailto:hello@releaseapp.io?subject=Release:%20Getting%20started%20with%20white-glove%20onboarding&body=I%20would%20like%20to%20hear%20about%20Release's%20white-glove%20onboarding%20process." alt="email hello@releaseapp.io">inquire about our white-glove onboarding</a> or <a href="https://calendly.com/tommy-release/60min" alt="Schedule a time with Tommy@Release with Calendly">schedule a demo</a>. If you're a self-starter or looking to unlock environments for your personal projects, check out the <a href="https://github.com/awesome-release" alt="Awesome Release">example applications</a> and explore the <a href="https://docs.releaseapp.io/" alt="Release Docs">documentation</a>.
 
  
-  <a href="https://github.com/awesome-release">
+  <a href="https://www.ycombinator.com/companies/13234">
       <img src="https://img.shields.io/static/v1?label=Y%20Combinator&message=W20&color=important&style=flat-square&logo=y%20combinator" alt="Y Combinator W20" />
     </a>
 
