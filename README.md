@@ -7,7 +7,7 @@
 <p align="center">
     <!-- <a href="mailto:hello@releaseapp.io?subject=I%20would%20like%20a%20demo!&body=I%20would%20like%20a%20demo%20of%20Release."> -->
     <a href="https://calendly.com/tommy-release/60min">
-        <img src="https://img.shields.io/static/v1?label=👉&message=Request%20a%20demo&color=orange&style=for-the-badge" alt="Examples that work in Release" />
+        <img src="https://img.shields.io/static/v1?label=%F0%9F%91%89&message=Request%20a%20demo&color=orange&style=for-the-badge" alt="Examples that work in Release" />
     </a>
 </p>
 <p align="center">
@@ -21,7 +21,7 @@
     <a href="https://github.com/awesome-release">
         <img src="https://img.shields.io/static/v1?label=examples&message=29&color=success" alt="Examples that work in Release" />
     </a>
-    <img src="https://img.shields.io/static/v1?label=environments&message=∞&color=success"  alt="Supports infinite number of environments" />
+    <img src="https://img.shields.io/static/v1?label=environments&message=%E2%88%9E&color=success"  alt="Supports infinite number of environments" />
     <br />
     <a href="https://docs.releaseapp.io/reference-guide/source-control-integrations/github">
         <img src="https://img.shields.io/static/v1?label=&message=Github&color=informational&logo=github" alt="Github Integration" />
