@@ -7,7 +7,7 @@
 <p align="center">
     <!-- <a href="mailto:hello@releaseapp.io?subject=I%20would%20like%20a%20demo!&body=I%20would%20like%20a%20demo%20of%20Release."> -->
     <a href="https://calendly.com/tommy-release/60min">
-        <img src="https://img.shields.io/static/v1?label=%F0%9F%91%89&message=Request%20a%20demo&color=orange&style=for-the-badge" alt="Examples that work in Release" />
+        <img src="https://img.shields.io/static/v1?label=%F0%9F%91%89&message=Request%20a%20demo&color=orange&style=for-the-badge" alt="Schedule a demo" />
     </a>
 </p>
 <p align="center">
@@ -63,9 +63,9 @@ To stay up to date with all the latest news and product updates, make sure you [
 
 # Sponsorship Opportunities
 
-We ❤ love ❤ Open Source Software. 
+We ❤ **love** ❤ Open Source Software. 
 
-If you have an open source project that could benefit from Environments on Every Pull Request, <a href="mailto:hello@releaseapp.io?subject=Release:%20I%20have%20an%20open%20source%20project&body=I%20have%20an%20open%20source%20project%20and%20would%20like%20to%20know%20how%20Release%20can%20help." alt="">message us</a> to see how we can fuel your rocketship! 🚀
+If you have an open source project that could benefit from Environments on Every Pull Request, <a href="mailto:hello@releaseapp.io?subject=Release:%20I%20have%20an%20open%20source%20project&body=I%20have%20an%20open%20source%20project%20and%20would%20like%20to%20know%20how%20Release%20can%20help." alt="Email Release to learn how it can support your Open Source projects">message us</a> to see how we can fuel your rocketship! 🚀
 
 &nbsp;
 
